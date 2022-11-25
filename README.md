@@ -3,40 +3,6 @@
 
 
 
-## [Clone-open](https://github.com/giovannicoppola/alfred-forum/raw/main/Clone-Open_0-2.alfredworkflow)
-[thread](https://www.alfredforum.com/topic/5914-file-action-duplicate/?do=findComment&comment=85906)
-
-
-## mac vendors
-In response to this [thread](https://www.alfredforum.com/topic/16856-macvendorscom-in-alfred-workflow/)
-
-- Search api.macvendors.com
-- Needs PHP installed
-
-
-## Remove Extra Spaces
-Testing the new Universal Actions 
-
-[thread](https://www.alfredforum.com/topic/17056-alfred-45-beta-take-a-first-look-at-universal-actions/?do=findComment&comment=87612)
-
-
-- Replace the selected text with a version without extra spaces
-- Replace the selected paragraph without extra lines
-- Convert to ALL CAPS
-- convert to lower case
-
-
-## Search with Safari incognito
-In response to this [thread](https://www.alfredforum.com/topic/16866-need-help-with-safari-workflow-web-search-in-private-window/?do=findComment&comment=86593)
-
-- Search Safari using a private window
-
-## Kill Finder
-
-In response to this [thread](https://www.alfredforum.com/topic/16869-little-finder-restart-keystroke/)
-
-- Kills all Finder processes 
-
 
 ## Age calculator
 responding to this [thread](https://www.alfredforum.com/topic/16938-age-calculator/)
@@ -72,5 +38,53 @@ Returns the column number in a spreadsheet, given the column name
 
 ![ColCounter](images/ColCounter.png)
 
+
+---------
+
+
+## Kill Finder
+
+In response to this [thread](https://www.alfredforum.com/topic/16869-little-finder-restart-keystroke/) (May 2021)
+
+- Kills all Finder processes 
+
+
+
+
+## Search with Safari incognito
+In response to this [thread](https://www.alfredforum.com/topic/16866-need-help-with-safari-workflow-web-search-in-private-window/?do=findComment&comment=86593) (May 2021)
+
+- Search Safari using a private window
+
+[Download](https://github.com/giovannicoppola/alfred-forum/raw/main/Search%20with%20Safari%20(private%20window).alfredworkflow)
+
+
+## Remove Extra Spaces
+Testing the new Universal Actions 
+
+[thread](https://www.alfredforum.com/topic/17056-alfred-45-beta-take-a-first-look-at-universal-actions/?do=findComment&comment=87612) (June 2021)
+
+
+- Replace the selected text with a version without extra spaces
+- Replace the selected paragraph without extra lines
+- Convert to ALL CAPS
+- convert to lower case
+
+[Download](https://github.com/giovannicoppola/alfred-forum/raw/main/Remove%20Extra%20Spaces.alfredworkflow)
+
+
+## mac vendors
+In response to this [thread](https://www.alfredforum.com/topic/16856-macvendorscom-in-alfred-workflow/) (May 2021)
+
+- Search api.macvendors.com
+- Needs PHP installed
+
+[Download](https://github.com/giovannicoppola/alfred-forum/raw/main/MAC.alfredworkflow)
+
+
+## Clone-open
+[thread](https://www.alfredforum.com/topic/5914-file-action-duplicate/?do=findComment&comment=85906) (April 2021)
+
+[Download](https://github.com/giovannicoppola/alfred-forum/raw/main/Clone-Open_0-2.alfredworkflow)
 
 
