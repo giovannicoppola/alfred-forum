@@ -3,7 +3,7 @@
 
 
 
-## Clone-open
+## [Clone-open](https://github.com/giovannicoppola/alfred-forum/raw/main/Clone-Open_0-2.alfredworkflow)
 [thread](https://www.alfredforum.com/topic/5914-file-action-duplicate/?do=findComment&comment=85906)
 
 
