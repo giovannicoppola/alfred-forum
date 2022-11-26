@@ -15,11 +15,63 @@
 
 
 ---------
+## 18. Greek Letters
+
+In response to this [thread](https://www.alfredforum.com/topic/19176-quickly-access-special-characters-eg-greek-%CE%B2-%CE%B1-etc/#comment-99868) (Oct 2022)
+
+Set a keyword to enter special characters (e.g. Greek letters).
+See also [snippets](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/Greek%20Letters.alfredsnippets).
+
+[Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/Greek%20Letters.alfredworkflow)
+
+
+
+## 17. Pop Coupon
+In response to this [thread](https://www.alfredforum.com/topic/18657-popping-out-a-coupon-from-a-list/#comment-97128)
+
+_I'd like a workflow that pops the first one and outputs it (of course deleting it from the list). 
+something like: I'm writing an email and I type ".coupon" and I have in my email the actual coupon pasted, and that one is no longer in my list of available coupons_
+
+- set the myCouponFile using the file picker. 
+- use either by entering the `.coupon` keyword in Alfred, or automatically by typing `.coupon` in your document. 
+
+[Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/popCoupon0-2.alfredworkflow)
+
+
+## 16. URL checker
+In response to this [thread](https://www.alfredforum.com/topic/18552-i-want-to-create-a-simple-workflow-actually-no-search/) (July 2022)
+
+- Open URL in clipboard if the URL contains 2 words.
+- Example: (keyword: `urlcheck`) will open the URL in your clipboard only if contains the words `boris` and `resigns`  😉
+
+[Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/URLcheck.alfredworkflow)
+
+
+## 15. New Note
+Response to thie [thread](https://www.alfredforum.com/topic/18487-create-note-in-notesapp/#comment-96306) (June 2022)
+
+- Create new Apple Notes note. 
+- Type keyword (default: `nnn`) followed by text
+
+[Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/newNote.alfredworkflow)
+
+## 14. Smart Folder by Tag
+in response to [thread](https://www.alfredforum.com/topic/11971-create-smart-folders-by-tag-file-action/?do=findComment&comment=95916) (May 2022) 
+
+Original by @dfay
+
+- Select a folder & launch the file action -- it will identify every tag that's used on any file in the folder, and create a corresponding smart folder.  Minimally adapted from http://leancrew.com/all-this/2018/10/a-little-tagging-automation/
+
+[Donwnload](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/SmartFolderByTag.alfredworkflow)
+
+
 ## 13. Rename Subtitle
 
 In response to this [thread](https://www.alfredforum.com/topic/18338-copy-one-filename-replace-another-keep-ext/)
 
 - Usage: select your folder, then either use a hotkey (to be set in the workflow), or select "Rename Subtitle" in Universal Actions (ctrl-cmd-\).
+
+[Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/Rename%20Subtitle.alfredworkflow) 
 
 ## 12. _background process
 [thread](https://www.alfredforum.com/topic/18296-download-images-asynchronously-in-the-background/) (April 2022)
