@@ -15,13 +15,23 @@
 
 
 ---------
-Prime Checker
+# 12. _background process
+[thread](https://www.alfredforum.com/topic/18296-download-images-asynchronously-in-the-background/) (April 2022)
+
+Example of background process
+
+- launches a script filter that runs every second. At the first run this launches a second script in the background, which lasts 7 seconds, after which Alfred will update the output.
+
+
+# 11. Prime Checker
 
 In response to this [thread](https://www.alfredforum.com/topic/18106-workflow-created-with-python-and-problems-with-json/#comment-93588) (March 2022): 
 
 Enter a number and check if it is prime. If not, get factors. 
 
+[Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/PrimeChecker.alfredworkflow)
 
+![PrimeChecker](images/PrimeChecker.png)
 
 
 ## 10. ColCounter
