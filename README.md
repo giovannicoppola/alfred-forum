@@ -15,15 +15,22 @@
 
 
 ---------
-# 12. _background process
+## 13. Rename Subtitle
+
+In response to this [thread](https://www.alfredforum.com/topic/18338-copy-one-filename-replace-another-keep-ext/)
+
+- Usage: select your folder, then either use a hotkey (to be set in the workflow), or select "Rename Subtitle" in Universal Actions (ctrl-cmd-\).
+
+## 12. _background process
 [thread](https://www.alfredforum.com/topic/18296-download-images-asynchronously-in-the-background/) (April 2022)
 
 Example of background process
 
 - launches a script filter that runs every second. At the first run this launches a second script in the background, which lasts 7 seconds, after which Alfred will update the output.
 
+[Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/_background%20process.alfredworkflow)
 
-# 11. Prime Checker
+## 11. Prime Checker
 
 In response to this [thread](https://www.alfredforum.com/topic/18106-workflow-created-with-python-and-problems-with-json/#comment-93588) (March 2022): 
 
