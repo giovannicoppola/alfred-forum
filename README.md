@@ -19,7 +19,8 @@
 
 
 In response to this [thread](https://www.alfredforum.com/topic/19367-trying-to-parse-a-json-to-alfred-search-results/) (Nov 2022)
-- Retrieve API information using the `requests` package
+
+- Retrieve API information from `https://api.short.io` using the `requests` package
 - default keyword: `tttt`
 
 [Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/fetchAPI.alfredworkflow)
@@ -42,7 +43,7 @@ In response to this [thread](https://www.alfredforum.com/topic/18657-popping-out
 _I'd like a workflow that pops the first one and outputs it (of course deleting it from the list). 
 something like: I'm writing an email and I type ".coupon" and I have in my email the actual coupon pasted, and that one is no longer in my list of available coupons_
 
-- set the myCouponFile using the file picker. 
+- set the `myCouponFile` variable using the file picker. 
 - use either by entering the `.coupon` keyword in Alfred, or automatically by typing `.coupon` in your document. 
 
 [Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/popCoupon0-2.alfredworkflow)
