@@ -15,6 +15,16 @@
 
 
 ---------
+## 19. Fetch API
+
+
+In response to this [thread](https://www.alfredforum.com/topic/19367-trying-to-parse-a-json-to-alfred-search-results/) (Nov 2022)
+- Retrieve API information using the `requests` package
+- default keyword: `tttt`
+
+[Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/fetchAPI.alfredworkflow)
+
+
 ## 18. Greek Letters
 
 In response to this [thread](https://www.alfredforum.com/topic/19176-quickly-access-special-characters-eg-greek-%CE%B2-%CE%B1-etc/#comment-99868) (Oct 2022)
@@ -27,7 +37,7 @@ See also [snippets](https://github.com/giovannicoppola/alfred-forum/raw/main/wor
 
 
 ## 17. Pop Coupon
-In response to this [thread](https://www.alfredforum.com/topic/18657-popping-out-a-coupon-from-a-list/#comment-97128)
+In response to this [thread](https://www.alfredforum.com/topic/18657-popping-out-a-coupon-from-a-list/#comment-97128) (July 2022)
 
 _I'd like a workflow that pops the first one and outputs it (of course deleting it from the list). 
 something like: I'm writing an email and I type ".coupon" and I have in my email the actual coupon pasted, and that one is no longer in my list of available coupons_
@@ -132,6 +142,7 @@ https://www.alfredforum.com/topic/17043-problems-opening-devonthink-urls-with-al
 responding to this [thread](https://www.alfredforum.com/topic/16938-age-calculator/) (May 2021)
 
 Enter date with format YYYY-Mon-DD (e.g. 2021–May-26), get age in years/months
+
 ![AgeCalc](images/AgeCalculator.png)
 
 [Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/Age%20calculator_v0.2.alfredworkflow)
