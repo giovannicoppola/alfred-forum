@@ -15,7 +15,7 @@
 
 
 ---------
-## 19. Fetch API
+## 20. Fetch API
 
 
 In response to this [thread](https://www.alfredforum.com/topic/19367-trying-to-parse-a-json-to-alfred-search-results/) (Nov 2022)
@@ -26,7 +26,7 @@ In response to this [thread](https://www.alfredforum.com/topic/19367-trying-to-p
 [Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/fetchAPI.alfredworkflow)
 
 
-## 18. Greek Letters
+## 19. Greek Letters
 
 In response to this [thread](https://www.alfredforum.com/topic/19176-quickly-access-special-characters-eg-greek-%CE%B2-%CE%B1-etc/#comment-99868) (Oct 2022)
 
@@ -37,7 +37,7 @@ See also [snippets](https://github.com/giovannicoppola/alfred-forum/raw/main/wor
 
 
 
-## 17. Pop Coupon
+## 18. Pop Coupon
 In response to this [thread](https://www.alfredforum.com/topic/18657-popping-out-a-coupon-from-a-list/#comment-97128) (July 2022)
 
 _I'd like a workflow that pops the first one and outputs it (of course deleting it from the list). 
@@ -49,7 +49,7 @@ something like: I'm writing an email and I type ".coupon" and I have in my email
 [Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/popCoupon0-2.alfredworkflow)
 
 
-## 16. URL checker
+## 17. URL checker
 In response to this [thread](https://www.alfredforum.com/topic/18552-i-want-to-create-a-simple-workflow-actually-no-search/) (July 2022)
 
 - Open URL in clipboard if the URL contains 2 words.
@@ -58,7 +58,7 @@ In response to this [thread](https://www.alfredforum.com/topic/18552-i-want-to-c
 [Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/URLcheck.alfredworkflow)
 
 
-## 15. New Note
+## 16. New Note
 Response to thie [thread](https://www.alfredforum.com/topic/18487-create-note-in-notesapp/#comment-96306) (June 2022)
 
 - Create new Apple Notes note. 
@@ -66,7 +66,7 @@ Response to thie [thread](https://www.alfredforum.com/topic/18487-create-note-in
 
 [Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/newNote.alfredworkflow)
 
-## 14. Smart Folder by Tag
+## 15. Smart Folder by Tag
 in response to [thread](https://www.alfredforum.com/topic/11971-create-smart-folders-by-tag-file-action/?do=findComment&comment=95916) (May 2022) 
 
 Original by @dfay
@@ -76,7 +76,7 @@ Original by @dfay
 [Donwnload](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/SmartFolderByTag.alfredworkflow)
 
 
-## 13. Rename Subtitle
+## 14. Rename Subtitle
 
 In response to this [thread](https://www.alfredforum.com/topic/18338-copy-one-filename-replace-another-keep-ext/)
 
@@ -84,7 +84,7 @@ In response to this [thread](https://www.alfredforum.com/topic/18338-copy-one-fi
 
 [Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/Rename%20Subtitle.alfredworkflow) 
 
-## 12. _background process
+## 13. _background process
 [thread](https://www.alfredforum.com/topic/18296-download-images-asynchronously-in-the-background/) (April 2022)
 
 Example of background process
@@ -93,7 +93,7 @@ Example of background process
 
 [Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/_background%20process.alfredworkflow)
 
-## 11. Prime Checker
+## 12. Prime Checker
 
 In response to this [thread](https://www.alfredforum.com/topic/18106-workflow-created-with-python-and-problems-with-json/#comment-93588) (March 2022): 
 
@@ -104,7 +104,7 @@ Enter a number and check if it is prime. If not, get factors.
 ![PrimeChecker](images/PrimeChecker.png)
 
 
-## 10. ColCounter
+## 11. ColCounter
 in response to this [thread](https://www.alfredforum.com/topic/18096-find-column-number-in-excelsheetsnumbers/#comment-93552) (March 2022)
 
 Returns the column number in a spreadsheet, given the column name
@@ -112,7 +112,7 @@ Returns the column number in a spreadsheet, given the column name
 
 ![ColCounter](images/ColCounter.png)
 
-## 9. Rich-Text Clipboard URL
+## 10. Rich-Text Clipboard URL
 In response to this [thread](https://www.alfredforum.com/topic/17972-how-to-format-a-link-text-url-so-that-it-does-not-paste-with-an-extra-new-line-at-the-end/) (Feb 2022)
 
 - Paste a rich-text URL into Google Docs without a new line
@@ -123,7 +123,7 @@ In response to this [thread](https://www.alfredforum.com/topic/17972-how-to-form
 
 
 
-## 8. Replace text in URL
+## 9. Replace text in URL
 In response to this [thread](https://www.alfredforum.com/topic/17654-workflow-to-replace-a-portion-of-copied-text/) (December 2021)
 
 - Universal action to replace 'settings' with 'users' in selected URL
@@ -131,7 +131,7 @@ In response to this [thread](https://www.alfredforum.com/topic/17654-workflow-to
 [Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/Replace%20Text%20in%20URL.alfredworkflow)
 
 
-## 7. OpenDEVON
+## 8. OpenDEVON
 In response to this [thread](
 https://www.alfredforum.com/topic/17043-problems-opening-devonthink-urls-with-alfred/) (June 2021)
 
@@ -139,7 +139,7 @@ https://www.alfredforum.com/topic/17043-problems-opening-devonthink-urls-with-al
 
 [Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/OpenDEVON.alfredworkflow)
 
-## 6. Age calculator
+## 7. Age calculator
 responding to this [thread](https://www.alfredforum.com/topic/16938-age-calculator/) (May 2021)
 
 Enter date with format YYYY-Mon-DD (e.g. 2021–May-26), get age in years/months
@@ -149,7 +149,7 @@ Enter date with format YYYY-Mon-DD (e.g. 2021–May-26), get age in years/months
 [Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/Age%20calculator_v0.2.alfredworkflow)
 
 
-## 5. Kill Finder
+## 6. Kill Finder
 
 In response to this [thread](https://www.alfredforum.com/topic/16869-little-finder-restart-keystroke/) (May 2021)
 
@@ -157,7 +157,7 @@ In response to this [thread](https://www.alfredforum.com/topic/16869-little-find
 
 [Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/KillFinder.alfredworkflow)
 
-## 4. Search with Safari incognito
+## 5. Search with Safari incognito
 In response to this [thread](https://www.alfredforum.com/topic/16866-need-help-with-safari-workflow-web-search-in-private-window/?do=findComment&comment=86593) (May 2021)
 
 - Search Safari using a private window
@@ -165,7 +165,7 @@ In response to this [thread](https://www.alfredforum.com/topic/16866-need-help-w
 [Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/Search%20with%20Safari%20(private%20window).alfredworkflow)
 
 
-## 3. Remove Extra Spaces
+## 4. Remove Extra Spaces
 Testing the new Universal Actions 
 
 [thread](https://www.alfredforum.com/topic/17056-alfred-45-beta-take-a-first-look-at-universal-actions/?do=findComment&comment=87612) (June 2021)
@@ -179,7 +179,7 @@ Testing the new Universal Actions
 [Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/Remove%20Extra%20Spaces.alfredworkflow)
 
 
-## 2. mac vendors
+## 3. mac vendors
 In response to this [thread](https://www.alfredforum.com/topic/16856-macvendorscom-in-alfred-workflow/) (May 2021)
 
 - Search api.macvendors.com
@@ -187,6 +187,10 @@ In response to this [thread](https://www.alfredforum.com/topic/16856-macvendorsc
 
 [Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/MAC.alfredworkflow)
 
+
+## 2. Battery cycles
+In response to this [thread](https://www.alfredforum.com/topic/16772-a-workflow-to-check-battery-charge-cycles/)
+Checking the battery cycles
 
 ## 1. Clone-open
 [thread](https://www.alfredforum.com/topic/5914-file-action-duplicate/?do=findComment&comment=85906) (April 2021)
