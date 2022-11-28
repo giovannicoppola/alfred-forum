@@ -190,7 +190,9 @@ In response to this [thread](https://www.alfredforum.com/topic/16856-macvendorsc
 
 ## 2. Battery cycles
 In response to this [thread](https://www.alfredforum.com/topic/16772-a-workflow-to-check-battery-charge-cycles/)
-Checking the battery cycles
+- Checking the battery cycles
+
+[Download]()
 
 ## 1. Clone-open
 [thread](https://www.alfredforum.com/topic/5914-file-action-duplicate/?do=findComment&comment=85906) (April 2021)
