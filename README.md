@@ -192,7 +192,7 @@ In response to this [thread](https://www.alfredforum.com/topic/16856-macvendorsc
 In response to this [thread](https://www.alfredforum.com/topic/16772-a-workflow-to-check-battery-charge-cycles/)
 - Checking the battery cycles
 
-[Download]()
+[Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/battery%20cycles.alfredworkflow)
 
 ## 1. Clone-open
 [thread](https://www.alfredforum.com/topic/5914-file-action-duplicate/?do=findComment&comment=85906) (April 2021)
