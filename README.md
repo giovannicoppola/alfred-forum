@@ -15,6 +15,14 @@
 
 
 ---------
+## 21. Pass arguments to equation
+In response to this [thread](https://www.alfredforum.com/topic/20050-outputnotifify-from-python-script-result/) (March 2023)
+_I am trying to run a simple python script to out the result of an equation (e.g.  'mult 2 3') and I want to see the result._
+
+
+![image](https://github.com/giovannicoppola/alfred-forum/assets/5774411/20df0e8b-e27e-422e-8292-f9eeb0820e34)
+
+
 ## 20. Fetch API
 
 
