@@ -5,22 +5,96 @@
 
 
 
-
-
-
-
-
-
-
-
-
 ---------
+## 26. Ref2Bib
+
+In response to this [thread]((https://www.alfredforum.com/topic/21222-convert-citation-to-bibtex/) (December 2023)
+
+*Let say I copy this citation to the clipboard:
+Are there any workflows out there that can convert this to bibtex code?*
+
+### Usage
+* in Terminal, install `anystyle` with `sudo gem install anystyle-cli`
+* install the workflow
+* select text with one or more references (one per line) in any format
+* open the text action menu (default shortcut: `cmd-ctr-\`), select ref2bib, press enter
+* a formatted BibTeX entry should be in your clipboard
+
+### Possible issues:
+
+1. duplicated BibTeX keys
+2. failed parsing due to newlines in the text (for example when selecting text in a PDF)
+
+[⬇️ Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/ref2bib0.0.2.alfredworkflow)
+
+
+## 25. Blackout Calculator
+In response to this [thread](https://www.alfredforum.com/topic/20943-workflow-for-data-range-calculation/) (September 2023)
+
+*In my line of work we'll have blackout periods where work cannot be done. Sometimes a customer will request that something be done during that period and so I need to explain that from the Monday before the 1st Friday of a particular month to the Sunday after the 3rd Friday of that month is the blackout period.
+<br>I'm looking for a way to be able to enter in a month and have it spit out the correct range of dates knowing that those dates may begin near the end of the previous month.*
+
+### Usage: 
+
+- keyword `bkout` (or custom hotkey)
+- enter month (format: `yyyy-mm`) to return the blackout period
+- enter complete date (format `yyyy-mm-dd`) to check if that date is in the blackout period
+- `enter ↩️` to show with large font and copy to clipboard
+
+[⬇️ Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/BlackoutCalculator_0.0.1.alfredworkflow)
+
+## 24. TabGrab
+In response to this [thread](https://www.alfredforum.com/topic/20635-total-newbie-embarasses-himself-with-stupid-question/) (June 2023)
+
+*Can Alfred save multiple Tabbed Finder Windows on Mac 10.14.6?<br>
+a. Or can Alfred replace tabbed Finder windows with its own equivalent?<br>
+b. I want to be able to shut down my Mac without any Finder windows open, and be able to restore tabbed Finder windows which I have saved.*
+
+### Usage: 
+- `tabgrab` or custom hotkey to save the currently open Finder tabs into a new set (enter a set name)
+- `openTabSet` or custom hotkey to list the saved Finder sets. 
+    - `Enter` to open the set
+    - `Shift + Enter` to show the set folders in large font
+    - `Control + Enter` to delete the set
+
+
+### Limitations: 
+- order of tabs not preserved
+- if multiple Finder windows are open when saving, all the corresponding tabs will be saved in the same set and opened in the same window. To my knowledge there is no way to save which window a tab is from.
+- when opening a saved set, an empty Finder window is also opened - could not find a way to avoid that.
+
+[⬇️ Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/tabGrab_0.1.alfredworkflow)
+
+## 23. PlusOne
+
+In response to this [thread](https://www.alfredforum.com/topic/20321-increment-a-number-by-one/) (April 2023)
+
+*Hi there, I'm looking for a way that I can paste in a tiny string that increments each time I do it. The idea is that I would have a snippet that pasted the string <Q1> the first time I used it, then <Q2> the next time and so on. I'd also like a way of setting the starting number.*
+
+- `++1` (or hotkey) to trigger the snippet
+- `plusone::reset` to reset the counter to the default value
+
+[⬇️ Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/PlusOne.alfredworkflow)
+
+## 22. Grab Locations
+
+In response to this [thread](https://www.alfredforum.com/topic/20087-search-for-multiple-address-in-googlemaps-to-make-a-route/) (March 2023)
+
+*I'm trying to automate a search on GoogleMaps that can quickly put multiple addresses on a map for me.  I am also a Mac user and I would like to be able to quickly click an event in Apple Calendar and it somehow copies the address of that event to GoogleMaps so that I can click on 10-15 events and see all of those addresses on the map.*
+
+[⬇️ Download (v0.4)](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/grabLocations_0.4.alfredworkflow)
+
+
+
 ## 21. Pass arguments to equation
 In response to this [thread](https://www.alfredforum.com/topic/20050-outputnotifify-from-python-script-result/) (March 2023)
+
 _I am trying to run a simple python script to out the result of an equation (e.g.  'mult 2 3') and I want to see the result._
 
 
 ![image](https://github.com/giovannicoppola/alfred-forum/assets/5774411/20df0e8b-e27e-422e-8292-f9eeb0820e34)
+
+[⬇️ Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/pythonOutput.alfredworkflow)
 
 
 ## 20. Fetch API
