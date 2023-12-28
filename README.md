@@ -179,12 +179,13 @@ Example of background process
 
 In response to this [thread](https://www.alfredforum.com/topic/18106-workflow-created-with-python-and-problems-with-json/#comment-93588) (March 2022): 
 
-Enter a number and check if it is prime. If not, get factors. 
+Enter a number and check if it is prime. If not, get closest primes and factors. 
 
-[Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/PrimeChecker.alfredworkflow)
+[v0.2 Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/PrimeChecker_0.2.alfredworkflow)
 
 ![PrimeChecker](images/PrimeChecker.png)
 
+- 2023-12-28 v0.2 added closest primes
 
 ## 11. ColCounter
 in response to this [thread](https://www.alfredforum.com/topic/18096-find-column-number-in-excelsheetsnumbers/#comment-93552) (March 2022)
