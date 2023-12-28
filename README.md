@@ -184,6 +184,8 @@ Enter a number and check if it is prime. If not, get closest primes and factors.
 [v0.2 Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/PrimeChecker_0.2.alfredworkflow)
 
 ![PrimeChecker](images/PrimeChecker.png)
+<img width="898" alt="image" src="https://github.com/giovannicoppola/alfred-forum/assets/5774411/2023f845-4cb6-4748-844a-dc85c69f5a27">
+
 
 - 2023-12-28 v0.2 added closest primes
 
