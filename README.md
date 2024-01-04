@@ -6,6 +6,11 @@
 
 
 ---------
+## 27. Remove extra stuff
+In response to this Alfred Forum [thread](https://www.alfredforum.com/topic/21286-python-script-output-to-workflow-not-script-filter/#comment-110502) (Jan 2024)
+
+[⬇️ Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/RemoveExtraStuff_0.2.alfredworkflow)
+
 ## 26. Ref2Bib
 
 In response to this Alfred Forum [thread](https://www.alfredforum.com/topic/21222-convert-citation-to-bibtex/) (December 2023)
