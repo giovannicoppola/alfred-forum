@@ -6,6 +6,11 @@
 
 
 ---------
+## 27. Remove extra stuff
+In response to this Alfred Forum [thread](https://www.alfredforum.com/topic/21286-python-script-output-to-workflow-not-script-filter/#comment-110502) (Jan 2024)
+
+[⬇️ Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/RemoveExtraStuff_0.2.alfredworkflow)
+
 ## 26. Ref2Bib
 
 In response to this Alfred Forum [thread](https://www.alfredforum.com/topic/21222-convert-citation-to-bibtex/) (December 2023)
@@ -34,6 +39,9 @@ In response to this Alfred Forum [thread](https://www.alfredforum.com/topic/2094
 *In my line of work we'll have blackout periods where work cannot be done. Sometimes a customer will request that something be done during that period and so I need to explain that from the Monday before the 1st Friday of a particular month to the Sunday after the 3rd Friday of that month is the blackout period.
 <br>I'm looking for a way to be able to enter in a month and have it spit out the correct range of dates knowing that those dates may begin near the end of the previous month.*
 
+![image](https://github.com/giovannicoppola/alfred-forum/assets/5774411/b2302e4e-f8e1-48ae-aa17-7c8ae35916cb)
+![image](https://github.com/giovannicoppola/alfred-forum/assets/5774411/a41213c0-4134-4c1d-a655-36d614e3f58d)
+
 ### Usage: 
 
 - keyword `bkout` (or custom hotkey)
@@ -49,6 +57,8 @@ In response to this Alfred Forum [thread](https://www.alfredforum.com/topic/2063
 *Can Alfred save multiple Tabbed Finder Windows on Mac 10.14.6?<br>
 a. Or can Alfred replace tabbed Finder windows with its own equivalent?<br>
 b. I want to be able to shut down my Mac without any Finder windows open, and be able to restore tabbed Finder windows which I have saved.*
+
+<img width="898" alt="image" src="https://github.com/giovannicoppola/alfred-forum/assets/5774411/b0da592d-7965-449c-acb5-440885492e8c">
 
 ### Usage: 
 - `tabgrab` or custom hotkey to save the currently open Finder tabs into a new set (enter a set name)
@@ -183,8 +193,7 @@ Enter a number and check if it is prime. If not, get closest primes and factors.
 
 [v0.2 Download](https://github.com/giovannicoppola/alfred-forum/raw/main/workflows/PrimeChecker_0.2.alfredworkflow)
 
-![PrimeChecker](images/PrimeChecker.png)
-<img width="898" alt="image" src="https://github.com/giovannicoppola/alfred-forum/assets/5774411/2023f845-4cb6-4748-844a-dc85c69f5a27">
+<img width="898" alt="image" src="https://github.com/giovannicoppola/alfred-forum/assets/5774411/4b52042c-5bde-4c62-adb0-33cf1a3fa366">
 
 
 - 2023-12-28 v0.2 added closest primes
